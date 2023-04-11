@@ -28,6 +28,7 @@ This program requires the following libraries to be installed:
 
 numpy
 matplotlib
+
 You can install these libraries using the following command:
 
 ```

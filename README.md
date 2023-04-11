@@ -3,10 +3,15 @@ This is a Python program to analyze the election results by reading a CSV file w
 
 ## Features
 Reads a CSV file with party-wise vote counts
+
 Calculates the total number of votes and seat allocation for each party
+
 Displays the results in the form of a bar chart
+
 Prints the party-wise vote count and seat allocation
-Usage
+
+## Usage
+
 Clone the repository:
 ```
 git clone https://github.com/<username>/election-results-analyzer.git
